@@ -3,3 +3,4 @@ GAN
 Autoregresive
 MOE
 Mamba
+Autogen
