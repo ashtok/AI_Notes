@@ -38,5 +38,3 @@ If you can only do maybe 30-45 min/day for 3 weeks (roughly 10-15 hrs total), th
 Then when you have more time freed up, move to Project 2 — you'll already know AutoGen's patterns, so the extra complexity (structured extraction + human-in-loop) will go faster than the raw hour estimate suggests, maybe 12-15 hrs instead of 20 since you're not learning the framework from scratch anymore.
 
 That sequencing also tells a nice story in interviews: "I built a simple pipeline first, then a more complex human-in-the-loop system" shows deliberate skill progression rather than one isolated project.
-
-Want me to break Project 3 into a day-by-day 3-week micro-plan (like 20-30 min tasks) so it fits your daily bandwidth?
