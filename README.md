@@ -47,3 +47,7 @@ JOB TODO
 https://portal.rex.zone/profiles
 
 lemon.io
+
+
+Ongoing: 
+Parsewave
